@@ -2,7 +2,7 @@
 Projeto desafio Magalu Desenvolvedor de Recomendações visando uma vaga de Desenvolvedor no Luizalabs.
 
 Arquivo Dockerfile - Contém a criação do container do docker
-Arquivo desafiofernando.py - Programa em Python 3 que permite expor nós de um grafo, originalmento em input manual na inicializaçao do programa, permitindo o manuseio através de um menu Interativo abaixo;
+Arquivo desafiofernando.py - Programa em Python 3 que permite expor nós de um grafo, originalmente em input manual na inicializaçao do programa, permitindo o manuseio através de um menu Interativo abaixo;
 
             1. Mostra nós do grafo 
             2. Mostra conhecidos de determinada pessoa 
