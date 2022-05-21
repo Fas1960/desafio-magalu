@@ -17,3 +17,8 @@ Arquivo desafiofernando.py - Programa em Python 3 que permite expor nós de um g
       Opção 4 - Cadastrar novas pessoas, que ainda não fazem parte do grafo, informando seu nome e os seus relacionamentos que já devem fazer parte do grafo. Caso um                     relacionamento informado ainda não esteja no grafo uma mensagem de erro será mostrada.
       Opção 0 Sair - Encerra o programa
       
+Passos para a execução:
+1 - Copiar os arquivo Dockerfile e desafiofernando.py para o seu repositório do docker
+2 - Na linha de comando :
+            2.1 - Executar o comando : docker build -t magalu .  (Irá criar o container magalu)
+            2.2 - Executar o comando : docker run -it magalu desafiofernando.py (Irá executar nosso programa de relacionamentos.
