@@ -1,5 +1,5 @@
 # desafio-magalu
-Projeto desafio Magalu Desenvolvedor de Recomendações visando uma vaga de Desenvolvedor no Luizalabs.
+Projeto desafio Magalu Desenvolvedor de Recomendações visando uma oportunidade como Desenvolvedor no Luizalabs.
 
 Arquivo Dockerfile - Contém a criação do container do docker
 Arquivo desafiofernando.ipynb - Programa em Python 3 que permite expor nós de um grafo, originalmente em input manual na inicializaçao do programa, permitindo o manuseio através ações feitas na barra de comando. Programa foi escrito usando o Jupyter pois o VSCODE que possuo instalado é uma versão para windows 7 que não permite o uso de das frameworks (Flask, request, json).
