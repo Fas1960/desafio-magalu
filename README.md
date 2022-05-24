@@ -48,5 +48,5 @@ Isso foi feito criando manualmenteum dicionário com o seguinte conteúdo:
              http://127.0.0.1:5000/novo
             
             resposta será:
-
+            {"Ana":["Maria","Vinicius","Carlos","Joao"],"Carlos":["Ana"],"Fernando":["Maria","Vinicius","Carlos","Joao"],"Gustavo":["Fernando"],"Joao":["Ana","Luiza"],"Luiza":["Joao"],"Maria":["Ana","Vinicius"],"Vinicius":["Ana","Maria"]}
 
